@@ -4,7 +4,7 @@ using System.Linq;
 
 public class HighScores
 {
-    public List<int> highScoresList;
+    public List<int> highScoresList;    
     public HighScores(List<int> list)
     {
         // throw new NotImplementedException();
@@ -13,23 +13,22 @@ public class HighScores
 
     public List<int> Scores()
     {
-        throw new NotImplementedException();
+        return highScoresList;
+       
     }
 
     public int Latest()
     {
-        throw new NotImplementedException();
+        return highScoresList.Last();
     }
 
     public int PersonalBest()
     {
-        throw new NotImplementedException();
+        return highScoresList.Max();
     }
 
     public List<int> PersonalTopThree()
     {
-        // throw new NotImplementedException();
-        return highScoresList.OrderByDescending(i => i).Take(3).ToList(); // OrderByDescending tri dans l'ordre décroissant. 
-        //Take Retourne un nombre spécifié d'éléments contigus à partir du début d'une séquence. 
+        return highScoresList.OrderByDescending(i => i).Take(3).ToList();
     }
 }
