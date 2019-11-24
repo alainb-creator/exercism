@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Formation\\exercism\\csharp\\two-fer\\TwoFer.csproj": {}
+    "C:\\Users\\alain\\exercism\\csharp\\two-fer\\TwoFer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Formation\\exercism\\csharp\\two-fer\\TwoFer.csproj": {
+    "C:\\Users\\alain\\exercism\\csharp\\two-fer\\TwoFer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Formation\\exercism\\csharp\\two-fer\\TwoFer.csproj",
+        "projectUniqueName": "C:\\Users\\alain\\exercism\\csharp\\two-fer\\TwoFer.csproj",
         "projectName": "TwoFer",
-        "projectPath": "C:\\Users\\Formation\\exercism\\csharp\\two-fer\\TwoFer.csproj",
-        "packagesPath": "C:\\Users\\Formation\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Formation\\exercism\\csharp\\two-fer\\obj\\",
+        "projectPath": "C:\\Users\\alain\\exercism\\csharp\\two-fer\\TwoFer.csproj",
+        "packagesPath": "C:\\Users\\alain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alain\\exercism\\csharp\\two-fer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Formation\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\alain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
