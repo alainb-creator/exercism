@@ -6,6 +6,7 @@ public static class Leap
     {
         //throw new NotImplementedException("You need to implement this function.");
 
-        return ((year & 4) == 0) && ((year % 100 != 0) || (year % 400 == 0));
+       // return ((year & 4) == 0) && ((year % 100 != 0) || (year % 400 == 0)) ne foncionne pas;
+        return (year % 400 == 0) || (year % 4 == 0 && year % 100 != 0);
     }
 } 
