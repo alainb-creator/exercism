@@ -4061,27 +4061,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Formation\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Formation\\exercism\\csharp\\robot-name\\RobotName.csproj",
+      "projectUniqueName": "C:\\Users\\alain\\exercism\\csharp\\robot-name\\RobotName.csproj",
       "projectName": "RobotName",
-      "projectPath": "C:\\Users\\Formation\\exercism\\csharp\\robot-name\\RobotName.csproj",
-      "packagesPath": "C:\\Users\\Formation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Formation\\exercism\\csharp\\robot-name\\obj\\",
+      "projectPath": "C:\\Users\\alain\\exercism\\csharp\\robot-name\\RobotName.csproj",
+      "packagesPath": "C:\\Users\\alain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alain\\exercism\\csharp\\robot-name\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Formation\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\alain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
